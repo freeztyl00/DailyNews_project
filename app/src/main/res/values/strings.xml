@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailyNews</string>
+    <string name="placeholder">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="article_time">12:01 pm</string>
+    <string name="article_author">Author</string>
+
+</resources>
